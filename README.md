@@ -156,7 +156,7 @@ File → New Project from Version Control
 В Terminal:
 
 ```bash
-git remote add upstream [https://github.com/<TEACHER_USERNAME>/PY_Course_Victor-Nikoriak-23_02](https://github.com/NikoriakViktot/PY-Course-Victor-Nikoriak-23_02.git)
+git remote add upstream https://github.com/NikoriakViktot/PY-Course-Victor-Nikoriak-23_02.git
 ```
 
 Перевірка:
