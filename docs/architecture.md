@@ -154,13 +154,4 @@ Review --> ClosePR
 
 ---
 
-# Примітка
 
-Поточна структура курсу:
-
-```
-
-03_variables_and_data_types
-04_boolean_logic_and_control
-
-```
